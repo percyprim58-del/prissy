@@ -1,0 +1,49 @@
+body {
+background-color: #e6e6fa;
+font-family:Georgia, serif;
+color: #444444;
+margin: 30px
+}
+h1{
+colour: #a83279;
+text-align: center;
+}
+h2{
+color: #c45a85;
+text-align: center;
+}
+h3{
+color: #a83279;
+}
+p{
+font-size: 17px;
+line-height: 1.6;
+}
+a{
+color: #a83279;
+text-decoration: none;
+font-weight: bold;
+margin: 8px;
+}
+a:hover{
+color: #d4a017;
+}
+hr{
+border: 1px #f5b5cc;
+}
+input, textarea{
+padding: 10px;
+border: 1px solid #d88ca9;
+border-radius: 5px;
+}
+button{
+background-color: #a83729;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+button:hover{
+background-color: #d45a91;
+}
